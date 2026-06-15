@@ -50,7 +50,7 @@ CodeAlpha Internship/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/CodeAlpha_Data_Analytics.git
+   git clone https://github.com/HarshalNavale45/CodeAlpha_Data_Analytics.git
    cd CodeAlpha_Data_Analytics
    ```
 
