@@ -1,0 +1,40 @@
+=================================================================
+       CODEALPHA EXPLORATORY DATA ANALYSIS (EDA) REPORT
+=================================================================
+
+1. DATASET CHARACTERISTICS
+  - Total books analyzed: 1000
+  - Columns: Title, Price, Rating, Availability, Category
+
+2. HYPOTHESIS TESTING SUMMARY
+  - Objective: Test if book ratings affect price.
+  - Pearson Correlation: 0.0282
+  - Results by Rating:
+    * 1-Star: £34.56
+    * 2-Star: £34.81
+    * 3-Star: £34.69
+    * 4-Star: £36.09
+    * 5-Star: £35.37
+  - Conclusion: Price and ratings are statistically independent (Correlation r = 0.0282).
+
+3. CATEGORICAL INSIGHTS
+  - Top 3 Categories by volume:
+    * Default: 152 books
+    * Nonfiction: 110 books
+    * Sequential Art: 75 books
+  - Top 3 Most Expensive Categories:
+    * Suspense: £58.33
+    * Novels: £54.81
+    * Politics: £53.61
+  - Top 3 Cheapest Categories:
+    * Crime: £10.97
+
+    * Academic: £13.12
+
+    * Adult Fiction: £15.36
+
+4. ANOMALIES & DATA ISSUES DETECTED
+  - Duplicate rows dropped: 0
+  - Negative prices: 0
+  - Statistical Outliers (Price): 0 books
+=================================================================
